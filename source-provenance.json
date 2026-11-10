@@ -1,0 +1,10 @@
+{
+  "source": "https://marcusheygster.com/apex-circuit",
+  "exported": "2026-11-10",
+  "unchanged_game_files_sha256": {
+    "src/game/race.css": "54662887915d56ef6db788858b8252c282b178a909ef4ae4662f8b3003b9ef31",
+    "src/game/engine.ts": "f2828320e1350049fcbe6c7ac66bb6a684212c26e9395acd37ff1ca6d32fe0d2",
+    "src/game/track-art.ts": "d60987a648f9b60e7572d43fdcdb2ffedeeb7c0229050b865a36d81db37e83e7",
+    "src/game/race-game.tsx": "88fcb2722081a912f6b928d4018a78775c131dca5dcb02db6a07b8ea4d3aa0b7"
+  }
+}
